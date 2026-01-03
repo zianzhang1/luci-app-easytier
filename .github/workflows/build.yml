@@ -44,13 +44,13 @@ jobs:
           # - arm_fa526
           #- arm_mpcore
           # - arm_xscale
-          - mips_24kc
+          # - mips_24kc
           #- mips_4kec
-          - mips_mips32
+          # - mips_mips32
           - mipsel_24kc
-          - mipsel_24kc_24kf
-          - mipsel_74kc
-          - mipsel_mips32
+          # - mipsel_24kc_24kf
+          # - mipsel_74kc
+          # - mipsel_mips32
           # - x86_64
           
         sdk:
